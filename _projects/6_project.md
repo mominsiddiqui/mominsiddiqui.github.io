@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: MobiTang
+description: Mobil widget interaction through magnetomter readings using machine learning and signal processing.
+img: assets/img/mag.png
+importance: 5
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
