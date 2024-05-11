@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted for Full Paper at AIED 2024
+Accepted for full paper track at AIED 2024
