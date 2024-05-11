@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted for work-in-progress paper track at L@S'24
+Accepted for work-in-progress paper track at L@S 2024
